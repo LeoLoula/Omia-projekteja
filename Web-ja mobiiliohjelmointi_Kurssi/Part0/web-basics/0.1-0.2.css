@@ -1,0 +1,44 @@
+table, 
+    td {
+        border: 2.5px solid rgba(24, 51, 50, 0.973);
+    }
+
+    th.Etunimi {
+        border: 2px solid firebrick;
+        color: 2px solid firebrick;
+
+    }
+
+    th.Sukunimi {
+        border :  royalblue;
+        color: royalblue;
+
+    }
+
+   label {
+    border: 2px solid  rgb(207, 139, 139);
+   }
+
+   a {
+        display: inline-block;  
+        color: rgba(37, 21, 173, 0.37)
+
+   }
+
+   a:hover {
+       color:rgba(24, 51, 50, 0.973)
+   }
+
+  p {
+      font-size: 15px ;
+      color: rgb(170, 163, 165);
+  }
+
+  #taulukko {
+    color: rgba(33, 46, 165, 0.973); 
+  }
+
+  #lista { 
+      border:  2px ;
+      color: rgba(37, 21, 173, 0.37);
+  }
