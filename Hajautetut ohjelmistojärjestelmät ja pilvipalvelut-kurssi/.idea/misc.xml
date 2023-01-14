@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/Demo1/Hajautetut ohjelmistojärjestelmät ja pilvipalvelut 2022/tehtavat/pom.xml" />
+        <option value="$PROJECT_DIR$/Demo2/demo2-master/pom.xml" />
+        <option value="$PROJECT_DIR$/demo3/pom.xml" />
+        <option value="$PROJECT_DIR$/Harjoitustyö/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_19" default="true" project-jdk-name="19" project-jdk-type="JavaSDK" />
+</project>

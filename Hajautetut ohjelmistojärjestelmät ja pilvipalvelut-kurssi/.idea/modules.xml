@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Hajautetut ohjelmistojärjestelmät ja pilvipalvelut.iml" filepath="$PROJECT_DIR$/.idea/Hajautetut ohjelmistojärjestelmät ja pilvipalvelut.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Demo1/Hajautetut ohjelmistojärjestelmät ja pilvipalvelut 2022/tehtavat/courseassist.iml" filepath="$PROJECT_DIR$/Demo1/Hajautetut ohjelmistojärjestelmät ja pilvipalvelut 2022/tehtavat/courseassist.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo3/server-client.iml" filepath="$PROJECT_DIR$/demo3/server-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Demo2/demo2-master/shared-state.iml" filepath="$PROJECT_DIR$/Demo2/demo2-master/shared-state.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Harjoitustyö/telephonegame.iml" filepath="$PROJECT_DIR$/Harjoitustyö/telephonegame.iml" />
+    </modules>
+  </component>
+</project>
